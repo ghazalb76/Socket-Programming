@@ -13,4 +13,4 @@ simultaneously and client is multi-threaded.
 causing no problems.
 <br>
 
-Also You can check : <a href="https://github.com/ghazalb76/SocketProgramming">Hoda Farsi Digit Dataset</a>
+Also You can check : <a href="https://github.com/ghazalb76/SocketProgramming">Socket Programming for Matrices</a>
