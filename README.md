@@ -11,3 +11,6 @@ The server is a dummy math server that could solve simple arithmetic operations
 simultaneously and client is multi-threaded.
 4. Finally, multiple clients can be able to connect and chat with the server at the same time,
 causing no problems.
+<br>
+
+Also You can check : <a href="https://github.com/ghazalb76/SocketProgramming">Hoda Farsi Digit Dataset</a>
